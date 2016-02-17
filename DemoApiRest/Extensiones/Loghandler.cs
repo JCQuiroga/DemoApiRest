@@ -12,7 +12,7 @@ namespace DemoApiRest.Extensiones
         {
             using (var d = File.AppendText(@"c:\log\logapi.txt"))
             {
-                d.WriteLine("{o:d} Request ->{1}",DateTime.Now,request);
+                d.WriteLine("{0:d} Request ->{1}",DateTime.Now,request);
             }
             return base.SendAsync(request, cancelationToken);
         }

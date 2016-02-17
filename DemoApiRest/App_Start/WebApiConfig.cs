@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Web.Http;
+using DemoApiRest.Extensiones;
 
 namespace DemoApiRest
 {
@@ -10,7 +11,7 @@ namespace DemoApiRest
         public static void Register(HttpConfiguration config)
         {
             // Web API configuration and services
-
+            config.MessageHandlers.Add(new Loghandler());
             // Web API routes
             config.MapHttpAttributeRoutes();
 
