@@ -26,3 +26,7 @@ c:\users\alumno\documents\visual studio 2015\Projects\DemoApiRest\DemoApiRest\bi
 c:\users\alumno\documents\visual studio 2015\Projects\DemoApiRest\DemoApiRest\obj\Debug\DemoApiRest.csprojResolveAssemblyReference.cache
 c:\users\alumno\documents\visual studio 2015\Projects\DemoApiRest\DemoApiRest\obj\Debug\DemoApiRest.dll
 c:\users\alumno\documents\visual studio 2015\Projects\DemoApiRest\DemoApiRest\obj\Debug\DemoApiRest.pdb
+c:\users\alumno\documents\visual studio 2015\Projects\DemoApiRest\DemoApiRest\bin\EntityFramework.dll
+c:\users\alumno\documents\visual studio 2015\Projects\DemoApiRest\DemoApiRest\bin\EntityFramework.SqlServer.dll
+c:\users\alumno\documents\visual studio 2015\Projects\DemoApiRest\DemoApiRest\bin\EntityFramework.xml
+c:\users\alumno\documents\visual studio 2015\Projects\DemoApiRest\DemoApiRest\bin\EntityFramework.SqlServer.xml
